@@ -1,0 +1,17 @@
+[
+  {
+    "Nome": "Rafael",
+    "CPF": "000.012.212-10",
+    "Curso": "Sistemas de Informação"
+  },
+  {
+    "CPF": "789.123.987-50",
+    "Nome": "Ricardo",
+    "Curso": "Corte e Costura"
+  },
+  {
+    "Nome": "Ronaldo",
+    "Curso": "Geografia"
+  }
+]
+

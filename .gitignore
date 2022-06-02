@@ -1,0 +1,21 @@
+.DS_Store
+.venv
+.idea
+*.sqlite3
+*pyc
+__pycache__
+staticfiles
+.ipynb_checkpoints/
+trabalhofinalsemestre
+analisebdprecocemsv1
+main.py
+# Project exclude paths
+/venv/
+AmazonFoodReviews.csv
+AmazonFoodReviews_model_ft.model
+AmazonFoodReviews_model_ft.model.wv.vectors_ngrams.npy
+AmazonFoodReviews_model_w2v.model
+AmazonFoodReviews_model_w2v_cbow.kv
+AmazonFoodReviews_model_w2v_cbow.model
+AmazonFoodReviewsWithTokens.csv
+cbow_s50.txt
