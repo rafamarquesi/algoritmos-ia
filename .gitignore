@@ -19,3 +19,4 @@ AmazonFoodReviews_model_w2v_cbow.kv
 AmazonFoodReviews_model_w2v_cbow.model
 AmazonFoodReviewsWithTokens.csv
 cbow_s50.txt
+/estudos/datasets/
