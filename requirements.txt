@@ -61,6 +61,7 @@ Markdown==3.3.6
 MarkupSafe==2.0.1
 matplotlib==3.4.2
 matplotlib-inline==0.1.2
+missingno==0.5.1
 mistune==0.8.4
 mlxtend==0.20.0
 murmurhash==1.0.6
@@ -72,6 +73,10 @@ nest-asyncio==1.5.1
 nltk==3.7
 notebook==6.4.0
 numpy==1.22.3
+nvidia-cublas-cu11==11.10.3.66
+nvidia-cuda-nvrtc-cu11==11.7.99
+nvidia-cuda-runtime-cu11==11.7.99
+nvidia-cudnn-cu11==8.5.0.96
 oauthlib==3.2.0
 opencv-python==4.5.2.52
 opt-einsum==3.3.0
@@ -98,6 +103,7 @@ pyparsing==2.4.7
 pyrsistent==0.17.3
 python-dateutil==2.8.1
 python-xlib==0.31
+pytorch-tabnet==4.0
 pytz==2021.1
 pyzmq==22.0.3
 qtconsole==5.1.0
@@ -130,6 +136,7 @@ testpath==0.5.0
 tf-estimator-nightly==2.8.0.dev2021122109
 thinc==8.0.13
 threadpoolctl==3.1.0
+torch==1.13.0
 tornado==6.1
 tqdm==4.62.3
 traitlets==5.0.5
